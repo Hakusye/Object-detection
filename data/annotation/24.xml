@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>24.jpg</filename>
+	<path>/Users/ryoga.shirae/Ryoga/SSd/data/images/24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>6</ymin>
+			<xmax>180</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
